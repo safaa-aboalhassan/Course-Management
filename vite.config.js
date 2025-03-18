@@ -6,5 +6,4 @@ export default defineConfig({
   plugins: [react()],
 })
 
-const cors = require("cors");
-app.use(cors());
+
